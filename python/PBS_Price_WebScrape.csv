@@ -1,0 +1,40 @@
+,InvDesc,MoA,Form,Avg_AEMP,WAPD_Perc,AEMP,Prev_AEMP,Diff_Perc,Calc,Price_Perc
+0,acamprosate,Oral,Tablet (enteric coated) containing acamprosate calcium 333 mg,108.07,11.60%,95.53,108.07,11.60%,Does not meet 30 month clock,10
+1,aripiprazole,Oral,Tablet 10 mg,74.47,11.17%,57.33,64.54,11.17%,GWAPD,10
+2,aripiprazole,Oral,Tablet 15 mg,105.68,11.18%,81.35,91.59,11.18%,GWAPD,10
+3,aripiprazole,Oral,Tablet 20 mg,128.64,11.18%,99.03,111.49,11.18%,GWAPD,10
+4,aripiprazole,Oral,Tablet 30 mg,156.76,11.18%,120.67,135.86,11.18%,GWAPD,10
+5,azacitidine,Injection,Powder for injection 100 mg,217.64,13.72%,156.61,181.51,13.72%,GWAPD,10
+6,bosentan,Oral,Tablet 125 mg (as monohydrate),1113.08,19.30%,898.26,1113.08,19.30%,Does not meet 30 month clock,10
+7,bosentan,Oral,Tablet 62.5 mg (as monohydrate),1113.08,19.30%,898.26,1113.08,19.30%,Does not meet 30 month clock,10
+8,entecavir,Oral,Tablet 0.5 mg (as monohydrate),144.49,40.20%,72.51,121.25,40.20%,GWAPD,10
+9,entecavir,Oral,Tablet 1 mg (as monohydrate),234.98,40.20%,117.91,197.18,40.20%,GWAPD,10
+10,ezetimibe,Oral,Tablet 10 mg,20.86,27.62%,12.71,17.56,27.62%,Does not meet 30 month clock,10
+11,fenofibrate,Oral,Tablet 145 mg,18.39,16.97%,15.27,18.39,16.97%,Does not meet 30 month clock,10
+12,fenofibrate,Oral,Tablet 48 mg,12.26,16.97%,10.18,12.26,16.97%,Does not meet 30 month clock,10
+13,itraconazole,Oral,Capsule 100 mg,109.35,11.09%,97.22,109.35,11.09%,GWAPD,10
+14,itraconazole,Oral,Capsule 50 mg,109.35,11.09%,97.22,109.35,11.09%,GWAPD,10
+15,olmesartan with hydrochlorothiazide,Oral,Tablet containing olmesartan medoxomil 20 mg with hydrochlorothiazide 12.5 mg,5.75,13.28%,4.57,5.27,13.28%,GWAPD,10
+16,olmesartan with hydrochlorothiazide,Oral,Tablet containing olmesartan medoxomil 40 mg with hydrochlorothiazide 12.5 mg,10.65,11.60%,8.46,9.57,11.60%,GWAPD,10
+17,olmesartan with hydrochlorothiazide,Oral,Tablet containing olmesartan medoxomil 40 mg with hydrochlorothiazide 25 mg,12.04,13.00%,9.57,11.00,13.00%,GWAPD,10
+18,pegfilgrastim,Injection,Injection 6 mg in 0.6 mL single use pre-filled syringe,1175.00,20.43%,934.95,1175.00,20.43%,GWAPD,10
+19,pregabalin,Oral,Capsule 150 mg,24.02,23.31%,18.42,24.02,23.31%,Does not meet 30 month clock,10
+20,pregabalin,Oral,Capsule 25 mg,7.08,23.31%,5.43,7.08,23.31%,Does not meet 30 month clock,10
+21,pregabalin,Oral,Capsule 300 mg,35.84,23.33%,27.48,35.84,23.33%,Does not meet 30 month clock,10
+22,pregabalin,Oral,Capsule 75 mg,15.66,23.31%,12.01,15.66,23.31%,Does not meet 30 month clock,10
+23,rituximab*,Injection,Solution for I.V. infusion 100 mg in 10 mL,479.73,18.94%,388.87,479.73,18.94%,Does not meet 30 month clock,10
+24,rituximab*,Injection,Solution for I.V. infusion 500 mg in 50 mL,1199.32,18.94%,972.17,1199.32,18.94%,Does not meet 30 month clock,10
+25,rosuvastatin*,Oral,Tablet 10 mg (as calcium),5.14,38.52%,3.16,5.14,38.52%,GWAPD,30
+26,tenofovir,Oral,Tablet containing tenofovir disoproxil fumarate 300 mg,339.37,11.93%,298.88,339.37,11.93%,Does not meet 30 month clock,10
+27,tenofovir,Oral,Tablet containing tenofovir disoproxil maleate 300 mg,339.37,11.93%,298.88,339.37,11.93%,Does not meet 30 month clock,10
+28,tenofovir,Oral,Tablet containing tenofovir disoproxil phosphate 291 mg,339.37,11.93%,298.88,339.37,11.93%,Does not meet 30 month clock,10
+29,teriflunomide,Oral,Tablet 14 mg,628.85,18.71%,511.19,628.85,18.71%,Does not meet 30 month clock,10
+30,tobramycin,Injection,Injection 80 mg (as sulfate) in 2 mL (without preservative),23.00,11.87%,20.27,23.00,11.87%,GWAPD,10
+31,tobramycin,Injection,Injection 80 mg in 2 mL,21.00,11.86%,18.51,21.00,11.86%,GWAPD,10
+32,trastuzumab,Injection,Powder for I.V. infusion 150 mg,533.22,11.81%,470.25,533.22,11.81%,Does not meet 30 month clock,10
+33,trastuzumab,Injection,Powder for I.V. infusion 420 mg,1493.02,11.81%,1316.69,1493.02,11.81%,Does not meet 30 month clock,10
+34,trastuzumab,Injection,Powder for I.V. infusion 60 mg,213.29,11.81%,188.10,213.29,11.81%,Does not meet 30 month clock,10
+35,trastuzumab,Injection,Solution for subcutaneous injection containing trastuzumab 600 mg in 5 mL,1667.10,11.81%,1470.22,1667.10,11.81%,Does not meet 30 month clock,10
+36,zoledronic acid,Injection,Injection concentrate for I.V. infusion 4 mg (as monohydrate) in 5 mL,132.37,38.31%,72.79,118.00,38.31%,GWAPD,30
+37,zoledronic acid,Injection,Solution for I.V. infusion 4 mg (as monohydrate) in 100 mL,132.37,38.31%,72.79,118.00,38.31%,GWAPD,30
+38,zoledronic acid,Injection,Solution for I.V. infusion 5 mg (as monohydrate) in 100 mL,177.21,38.31%,97.47,157.98,38.30%,GWAPD,30
