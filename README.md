@@ -6,4 +6,4 @@
 
 ## R
  
-   *[Adjustment for multivariate linear regression](http://rpubs.com/bennylee_uts/425847)
+   * [Adjustment for multivariate linear regression](http://rpubs.com/bennylee_uts/425847)
