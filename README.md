@@ -11,6 +11,9 @@ Repository containing portfolio of data science projects completed by me for aca
    * [Adjustment for multivariate linear regression](http://rpubs.com/bennylee_uts/425847)
 
 
+## Tableau
+
+   * [Using Tableau for data pipeline development](https://benny-lee.medium.com/using-tableau-for-developing-data-pipeline-7afe7ca5944c)
 
 ## Published articles
 
